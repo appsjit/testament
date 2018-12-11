@@ -1,0 +1,54 @@
+#code
+#Uses python3
+import sys
+
+wordCurrentCntr = 0
+
+def processPat(p_tree,p_pat):
+    global wordCurrentCntr
+    patLvl = 0
+    for p in p_pat:
+        if patLvl in p_tree :
+            childDict =  p_tree.get(patLvl)
+            if p not in childDict:
+                wordCurrentCntr = wordCurrentCntr + 1
+                ##patLvl = wordCurrentCntr
+                childDict[p] = wordCurrentCntr
+                p_tree[patLvl] = childDict
+            patLvl = childDict.get(p)
+        else:
+            childDict = dict()
+            childDict[p] = patLvl + 1
+            p_tree[wordCurrentCntr] = childDict
+            wordCurrentCntr = wordCurrentCntr + 1
+            patLvl = patLvl + 1
+        ##print(p);
+    return p_tree
+        
+    
+
+# Return the trie built from patterns
+# in the form of a dictionary of dictionaries,
+# e.g. {0:{'A':1,'T':2},1:{'C':3}}
+# where the key of the external dictionary is
+# the node ID (integer), and the internal dictionary
+# contains all the trie edges outgoing from the corresponding
+# node, and the keys are the letters on those edges, and the
+# values are the node IDs to which these edges lead.
+def build_trie(patterns):
+    tree = dict()
+    for pat in patterns:
+        tree = processPat(tree,pat)
+    # write your code here
+    return tree
+
+
+if __name__ == '__main__':
+    ##patterns = sys.stdin.read().split()[1:]
+    listx = ['ATAGA','ATC','GAT']
+    patterns = listx
+    tree = build_trie(patterns)
+    for node in tree:
+        for c in tree[node]:
+            ##print("Finale:"+c)
+            print("{}->{}:{}".format(node, tree[node][c], c))

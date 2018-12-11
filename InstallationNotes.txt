@@ -1,0 +1,27 @@
+cmd
+
+
+C:\Users\abrode\AppData\Local\Programs\Python\Python37-32
+python -m pip install --upgrade pip
+
+
+
+C:\Users\abrode\AppData\Local\Programs\Python\Python37-32\Scripts>
+pip install ipython
+
+
+C:\Users\abrode\AppData\Local\Programs\Python\Python37-32>python -m pip show ipython
+Name: ipython
+Version: 7.0.1
+Summary: IPython: Productive Interactive Computing
+Home-page: https://ipython.org
+Author: The IPython Development Team
+Author-email: ipython-dev@python.org
+License: BSD
+Location: c:\users\abrode\appdata\local\programs\python\python37-32\lib\site-packages
+Requires: decorator, backcall, pickleshare, pygments, setuptools, colorama, traitlets, prompt-toolkit, simplegeneric, jedi
+Required-by:
+
+
+
+https://stackoverflow.com/questions/47327792/no-module-named-ipython-error-despite-already-installed 
