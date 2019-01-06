@@ -82,8 +82,8 @@ class HW02:
         return True if (str == ''.join(reversed(str))) else False
 
 if __name__ == '__main__':
-    ##print(HW02.getUnique([1, 2, 3, 1, 2]))
-    # print(HW02.wrdCnt('The cat and the hat.'))
+    print(HW02.getUnique([1, 2, 3, 1, 2]))
+    #print(HW02.wrdCnt('The cat and the hat.'))
     # print(HW02.wrdCnt('As soon as possible.'))
     # print(HW02.wrdCnt('It''s a man, it''s a plane, it''s superman!'))
     # print(HW02.chkRgb('rbgrbrgrgbgrrggbbbbrgrgrgrg'))
@@ -98,12 +98,12 @@ if __name__ == '__main__':
     # print(HW02.sortDigits(32445))
     # print(HW02.sortDigits(10101))
     # print(HW02.getDupl([1, 2, 4, 2]))
-    # print(HW02.getDupl([3, 2, 3, 2, 3, 3, 4]))
+    print(HW02.getDupl([3, 2, 3, 2, 3, 3, 4]))
     # print(HW02.getDupl([1, 2, 3, 4]))
     # print(HW02.checkAnagrams('cat','act'))
     # print(HW02.checkAnagrams('cat', 'cam'))
     # print(HW02.checkAnagrams('racecar', 'aaccrres'))
     # print(HW02.checkAnagrams('listen', 'silent'))
-    print(HW02.checkPalindrome('racecar'))
-    print(HW02.checkPalindrome('cat'))
-    print(HW02.checkPalindrome('malayalam'))
+    # print(HW02.checkPalindrome('racecar'))
+    # print(HW02.checkPalindrome('cat'))
+    # print(HW02.checkPalindrome('malayalam'))
