@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="606ec7e7-0158-4239-a7fb-a6540a575193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_DataAnalysis/DAwithPandas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_DataAnalysis/imgProcNumPy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBConnect/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBConnect/account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBConnect/balance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBConnect/dbScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBConnect/jackBalance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBConnect/johnBalance.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DBConnect/orclConnect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchPython/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ElasticSearchPython/kStart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntDictProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webScrap/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webScrap/wsScript.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwOpenCV/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwOpenCV/cv2Script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Miscellaneous.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Miscellaneous.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrManOco/HW02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrManOco/HW02.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -401,10 +380,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18604651" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18604651" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32222223" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -413,7 +391,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32916668" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.45295697" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39722222" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39722222" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32916668" />
