@@ -8,7 +8,8 @@
 
 
 class Solution:
-    def getNm(l): x=""
+    def getNm(l):
+        x=""
         childNode = l
         while childNode.next != None:
             x = str(childNode.val)+x
@@ -39,7 +40,7 @@ class Solution:
             val1 = l1.val if l1 else 0
             l1 = l1.next if l1 else 0
 
-            l2,val2=[l2. next , l2.val] i f l2 else [0,0]
+            l2,val2=[l2.next , l2.val] if l2 else [0,0]
             hatcha , baki =divmod(val1 + val2 + hatcha , 10)
             result.append(baki)
 
