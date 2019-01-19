@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="606ec7e7-0158-4239-a7fb-a6540a575193" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s003_LongestSubstrWOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s007_Reverse_Integer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s009_Palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s013_RomanToInt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/tester.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/soljit/001_TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/soljit/s001_TwoSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/soljit/002_AddingNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/soljit/s002_AddingNumbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myReact/react-app" beforeDir="false" afterPath="$PROJECT_DIR$/../myReact/react-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myReact/vidly" beforeDir="false" afterPath="$PROJECT_DIR$/../myReact/vidly" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DBConnect/orclConnect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="23" lean-forward="true" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+            <state relative-caret-position="640">
+              <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -72,7 +82,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webScrap/wsScript.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="645">
               <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
             </state>
           </provider>
@@ -127,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
@@ -144,6 +154,11 @@
             <path>
               <item name="Miscellaneous" type="b2602c69:ProjectViewProjectNode" />
               <item name="Miscellaneous" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Miscellaneous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Miscellaneous" type="462c0819:PsiDirectoryNode" />
+              <item name="PrManOco" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Miscellaneous" type="b2602c69:ProjectViewProjectNode" />
@@ -379,7 +394,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="812" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18604651" />
@@ -622,6 +638,7 @@
     <entry file="file://$PROJECT_DIR$/webScrap/RealEstateData.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../../ReactProjects/react-app/src/components/counter.jsx" />
     <entry file="file://$PROJECT_DIR$/PrManOco/HW01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -659,22 +676,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webScrap/wsScript.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="645">
           <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../ReactProjects/react-app/src/components/counter.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DBConnect/orclConnect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="23" lean-forward="true" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+        <state relative-caret-position="640">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
