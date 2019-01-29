@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="606ec7e7-0158-4239-a7fb-a6540a575193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s014_LongestCommonPrefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s066_PlusOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s067_addBinary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s006_zigzag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s011_MostWaterContainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s020_validParenthesis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myReact/react-app" beforeDir="false" afterPath="$PROJECT_DIR$/../myReact/react-app" afterDir="false" />

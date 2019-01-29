@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ed0c8d-a004-42be-8fca-06a88108e80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/soljit/s014_LongestCommonPrefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s066_PlusOne.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s067_addBinary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s006_zigzag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s011_MostWaterContainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s020_validParenthesis.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Miscellaneous/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Miscellaneous/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../myReact/react-app" beforeDir="false" afterPath="$PROJECT_DIR$/../myReact/react-app" afterDir="false" />
@@ -36,11 +36,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/soljit/s066_PlusOne.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soljit/s020_validParenthesis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soljit/s006_zigzag.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/soljit/s011_MostWaterContainer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -111,6 +138,9 @@
         <option value="$PROJECT_DIR$/soljit/s003_LongestSubstrWOR.py" />
         <option value="$PROJECT_DIR$/soljit/s067_addBinary.py" />
         <option value="$PROJECT_DIR$/soljit/s066_PlusOne.py" />
+        <option value="$PROJECT_DIR$/soljit/s020_validParenthesis.py" />
+        <option value="$PROJECT_DIR$/soljit/s006_zigzag.py" />
+        <option value="$PROJECT_DIR$/soljit/s011_MostWaterContainer.py" />
       </list>
     </option>
   </component>
@@ -403,6 +433,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s020_validParenthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s006_zigzag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="50" column="11" lean-forward="true" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s011_MostWaterContainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
