@@ -24,4 +24,4 @@ Required-by:
 
 
 
-https://stackoverflow.com/questions/47327792/no-module-named-ipython-error-despite-already-installed 
+https://stackoverflow.com/questions/47327792/no-module-named-ipython-error-despite-already-installed
