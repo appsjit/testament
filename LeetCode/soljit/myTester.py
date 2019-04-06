@@ -17,3 +17,4 @@ while interval < totSize:
     interval *=2
 
 print(myList)
+print(repr(myList))
