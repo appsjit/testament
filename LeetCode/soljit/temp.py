@@ -1,3 +1,4 @@
+import string
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         sLen = len(s)
@@ -41,6 +42,13 @@ class Solution:
                 print("%5d " % (dp[i][j]), end="")
             print('\n')
 
+
+        for letter1, letter2 in zip(string.ascii_lowercase[0::2], string.ascii_lowercase[1::2]):
+            print(letter1 + letter2)
+
         if (dp[len(s) - 2][len(p) - 1] == dp[len(s) - 1][len(p) - 1]):
             return False
         return dp[len(s) - 1][len(p) - 1]
+
+
+
