@@ -2,46 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ed0c8d-a004-42be-8fca-06a88108e80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OutcoJul/KMerge_minHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/Rec_Power_Lattice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/Rec_intToHex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/WeirdTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/dnaComplement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/minToOneMemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/minToOneRecursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/minToOneTabulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/scratch.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OutcoJul/tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/Ch_10_minmax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/LinkedListNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/LinkedList_Ch03_DelHead.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/LinkedList_Ch05_Reverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/LinkedList_Ch06_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/LinkedList_Ch08_remDupl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/LinkedList_Ch1_tailIns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/StQ_Ch3_RevKinQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/StQ_Ch5_Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/StQ_Ch8_Parenthes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/Trie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/TrieNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/edMyTester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/myLinkedList/LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/myLinkedList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/myLinkedList/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/myLinkedList/node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/myQueue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/myStack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/pascal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s205_isomorphicStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s290_wordPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s350_intersectList.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/myTester.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/myTester.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/s066_PlusOne.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s066_PlusOne.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/temp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/KMerge_minHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/KMerge_minHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/Rec_Power_Lattice.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/Rec_Power_Lattice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/Rec_intToHex.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/Rec_intToHex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/WeirdTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/WeirdTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/dnaComplement.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/dnaComplement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/minToOneMemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/minToOneMemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/minToOneRecursion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/minToOneRecursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/minToOneTabulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/minToOneTabulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/scratch.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/scratch.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OutcoJul/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/tester.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +68,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OutcoJul/tester.py">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/tester.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
@@ -106,7 +77,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OutcoJul/Rec_Power_Lattice.py">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/Rec_Power_Lattice.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
@@ -118,16 +89,16 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/OutcoJul/Rec_intToHex.py">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/Rec_intToHex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="125">
+              <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OutcoJul/dnaComplement.py">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/dnaComplement.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-249">
               <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
@@ -235,7 +206,7 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="OutcoJul" type="462c0819:PsiDirectoryNode" />
+              <item name="educative" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -274,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Rec_Power_Lattice">
+  <component name="RunManager" selected="Python.Rec_Power_Lattice (1)">
     <configuration name="02_frequency_count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,6 +288,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Rec_Power_Lattice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctuoJul" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ctuoJul/Rec_Power_Lattice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Rec_Power_Lattice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,27 +322,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OutcoJul/Rec_Power_Lattice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s205_isomorphicStrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/soljit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s205_isomorphicStrings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -382,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Rec_Power_Lattice (1)" />
         <item itemvalue="Python.Rec_Power_Lattice" />
         <item itemvalue="Python.tester" />
         <item itemvalue="Python.03_decrease_and_conquer" />
         <item itemvalue="Python.02_frequency_count" />
-        <item itemvalue="Python.s205_isomorphicStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -604,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/scratch.txt">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/scratch.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
@@ -649,28 +620,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/minToOneRecursion.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/minToOneRecursion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/minToOneMemo.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/minToOneMemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/minToOneTabulation.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/minToOneTabulation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/WeirdTest.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/WeirdTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
@@ -802,28 +773,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/dnaComplement.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/dnaComplement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-249">
           <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/KMerge_minHeap.java">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/KMerge_minHeap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1035">
           <caret line="69" column="45" lean-forward="true" selection-start-line="69" selection-start-column="45" selection-end-line="69" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/tester.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/tester.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/Rec_Power_Lattice.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/Rec_Power_Lattice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
@@ -833,10 +804,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/OutcoJul/Rec_intToHex.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/Rec_intToHex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="125">
+          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
     </entry>
