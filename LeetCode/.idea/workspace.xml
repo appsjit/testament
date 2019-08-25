@@ -2,27 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ed0c8d-a004-42be-8fca-06a88108e80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ctuoJul/LinkedListProbability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/MergeMedian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/QueueWIthTwoStacks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/Rec_capPermut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/Rec_coinSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/dp_CoinSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/dp_FileSum_JS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/heapqBuntoro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/kthLargestAmadou.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/ronGraphTraversal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/ronHeapSort" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/spiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/spiralMatrix_Amadou" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/wbTreeHeightBuntoro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/educative/hashImpl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s102_PathSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s113_pathSumII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s124_BST_MaxPath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ctuoJul/amDp_buyingSellingShare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ctuoJul/amadouCoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ctuoJul/amadouCoinChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s047_PermutationsII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s076_MinWindowT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s076_MinimumWIndow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s121_stockSellBuyI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s122_stockSellBuyII.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ctuoJul/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/ctuoJul/tester.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,81 +21,93 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/educative/Lists.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/educative/LinkedListNode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/target_practice_prompts/12_matrix.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ctuoJul/kthLargestAmadou.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ctuoJul/spiralMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="73" column="25" lean-forward="true" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/educative/myLinkedList/LinkedList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="23" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/educative/__init__.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/educative/myLinkedList/node.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/educative/myLinkedList/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="795">
+              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soljit/s141_LinkedListCycle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/dnaComplement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soljit/s047_PermutationsII.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/Rec_coinSum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/amadouCoinChange.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="25" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/amadouCoinChange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ctuoJul/amDp_buyingSellingShare.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soljit/s076_MinimumWIndow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-51">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/soljit/s141_LinkedListCycle.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/soljit/s076_MinWindowT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -132,14 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/soljit/s066_PlusOne.py" />
-        <option value="$PROJECT_DIR$/soljit/s350_intersectList.py" />
-        <option value="$PROJECT_DIR$/soljit/s205_isomorphicStrings.py" />
-        <option value="$PROJECT_DIR$/soljit/s290_wordPattern.py" />
-        <option value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/homework_prompts/02_frequency_count.py" />
-        <option value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/homework_prompts/03_decrease_and_conquer.py" />
-        <option value="$PROJECT_DIR$/OutcoJul/tester.py" />
-        <option value="$PROJECT_DIR$/OutcoJul/KMerge_minHeap.java" />
         <option value="$PROJECT_DIR$/OutcoJul/Rec_Power_Lattice.py" />
         <option value="$PROJECT_DIR$/OutcoJul/Rec_intToHex.py" />
         <option value="$PROJECT_DIR$/ctuoJul/Rec_capPermut.py" />
@@ -183,6 +175,14 @@
         <option value="$PROJECT_DIR$/ctuoJul/spiralMatrix.java" />
         <option value="$PROJECT_DIR$/soljit/s124_BST_MaxPath.py" />
         <option value="$PROJECT_DIR$/soljit/s141_LinkedListCycle.py" />
+        <option value="$PROJECT_DIR$/soljit/s047_PermutationsII.py" />
+        <option value="$PROJECT_DIR$/ctuoJul/amadouCoinChange.java" />
+        <option value="$PROJECT_DIR$/ctuoJul/amadouCoinChange.py" />
+        <option value="$PROJECT_DIR$/ctuoJul/amDp_buyingSellingShare.py" />
+        <option value="$PROJECT_DIR$/soljit/s121_stockSellBuyI.py" />
+        <option value="$PROJECT_DIR$/soljit/s122_stockSellBuyII.py" />
+        <option value="$PROJECT_DIR$/soljit/s076_MinimumWIndow.py" />
+        <option value="$PROJECT_DIR$/soljit/s076_MinWindowT.py" />
       </list>
     </option>
   </component>
@@ -197,6 +197,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,7 +224,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,8 +251,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s141_LinkedListCycle">
-    <configuration name="11_oop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.s076_MinimumWIndow">
+    <configuration name="amadouCoinChange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,11 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/target_practice_prompts" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ctuoJul" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/target_practice_prompts/11_oop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ctuoJul/amadouCoinChange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -273,7 +273,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s047_PermutationsII" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -281,11 +281,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/target_practice_prompts" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/soljit" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/target_practice_prompts/12_matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s047_PermutationsII.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,7 +294,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decrease_and_conquer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s076_MinimumWIndow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/homework_prompts" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/soljit" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/homework_prompts/decrease_and_conquer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s076_MinimumWIndow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s076_MinimumWIndow" />
+        <item itemvalue="Python.amadouCoinChange" />
+        <item itemvalue="Python.s047_PermutationsII" />
         <item itemvalue="Python.s141_LinkedListCycle" />
         <item itemvalue="Python.s124_BST_MaxPath" />
-        <item itemvalue="Python.12_matrix" />
-        <item itemvalue="Python.11_oop" />
-        <item itemvalue="Python.decrease_and_conquer" />
       </list>
     </recent_temporary>
   </component>
@@ -423,13 +423,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18604651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5146036" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5146036" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33222222" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -462,79 +463,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ctuoJul/MergeMedian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="42" column="26" lean-forward="true" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctuoJul/LinkedListProbability.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/pascal.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/myStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/myQueue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/LinkedList_Ch08_remDupl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/LinkedList_Ch06_Loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctuoJul/QueueWIthTwoStacks.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctuoJul/heapqBuntoro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/homework_prompts/10_binary_search_tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="103" column="24" lean-forward="true" selection-start-line="103" selection-start-column="24" selection-end-line="103" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/LinkedList_Ch03_DelHead.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/educative/LinkedList_Ch05_Reverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -661,13 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ctuoJul/dnaComplement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/homework_prompts/14_hash_table.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
@@ -791,15 +712,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/dp_CoinSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-395">
+          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/dp_FileSum_JS">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s121_stockSellBuyI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s122_stockSellBuyII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/educative/myLinkedList/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="795">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/soljit/s141_LinkedListCycle.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/dnaComplement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s047_PermutationsII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/Rec_coinSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/amadouCoinChange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/amadouCoinChange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/amDp_buyingSellingShare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s076_MinimumWIndow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s076_MinWindowT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
