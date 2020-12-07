@@ -50,6 +50,58 @@ class Solution:
 
 
 
+    ### Using LinkedList
+    # Definition for singly-linked list.
+    # class ListNode:
+    #     def __init__(self, val=0, next=None):
+    #         self.val = val
+    #         self.next = next
+    class Solution:
+        def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+            preHead = ListNode(-1)
+
+            res = preHead
+            rem = 0
+            while l1 != None and l2 != None:
+                newNum = l1.val + l2.val + rem
+                rem = 0
+                if newNum < 10:
+                    newNum = newNum
+                else:
+                    rem = 1
+                    newNum -= 10
+                newNode = ListNode(newNum)
+                res.next = newNode
+                res = res.next
+                l1 = l1.next
+                l2 = l2.next
+
+            remList = l1 if l1 is not None else l2
+
+            while remList != None:
+                newNum = remList.val + rem
+                rem = 0
+                if newNum < 10:
+                    newNum = newNum
+                else:
+                    rem = 1
+                    newNum -= 10
+                res.next = ListNode(newNum)
+                res = res.next
+                remList = remList.next
+
+            if rem > 0:
+                res.next = ListNode(rem)
+
+            return preHead.next
+
+
+
+
+
+
+
+
 
 
 

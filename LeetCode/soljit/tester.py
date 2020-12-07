@@ -14,3 +14,11 @@ class tester(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.test_digitalroot()
+
+
+
+############ To test inside file
+# s = Solution();
+# matrix = [[36376,85652,21002,4510],[68246,64237,42962,9974],[32768,97721,47338,5841],[55103,18179,79062,46542]]
+# ##matrix = [[3,7,8],[9,11,13],[15,16,17]]
+# print(s.luckyNumbers(matrix))

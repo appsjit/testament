@@ -11,14 +11,14 @@ class Solution:
             else:
                 L.append(nums[x] * L[x - 1])
 
-        print(L)
+        ##print(L)
         for x in range(rs - 1, -1, -1):
             if x == (rs - 1):
                 R[x] = nums[x]
             else:
                 R[x] = R[x + 1] * nums[x]
 
-        print(R)
+        ##print(R)
         result = []
         for r in range(rs):
             lm = r - 1
@@ -33,5 +33,8 @@ class Solution:
             result.append(ans)
 
         return result
+
+s = Solution()
+print(s.productExceptSelf([1, 2, 3, 4, 5]))
 
 

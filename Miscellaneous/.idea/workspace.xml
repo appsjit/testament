@@ -2,38 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="606ec7e7-0158-4239-a7fb-a6540a575193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LeetCode/ctuoJul/probability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/ctuoJul/trieLevelUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s034_firstLastPosInArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s056_MergeIntervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s072_editDistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s088_MergeSortedArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s098_validateBST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s125_validPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s139_wordBreakBFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s139_wordBreakDP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s161_oneEditDistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s173_BSTIterator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s199_BSTRightSideView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s208_TrieAddSearchSW.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s211_TrieAddSearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s238_ProductArrayExclude.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s239_slidingWindowMax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s252_MeetingRooms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s253_MeetingRoomsII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s273_IntegerToEnglish.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s286_WallsANdGates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s501_findMode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s621_TaskSchedular.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s680_validPalindrome2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s700_BSTClosest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s767_rearrangeString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s986_intervalListIntersection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trie.py3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tryMatching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/ctuoJul/stock_122.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s053_maxSubArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s055_jumpGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s063_UniquePath2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s094_BST_Inorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s1326_minTaps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s144_BST_PreOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s145_BST_PostOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s152_maxProdSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s163_missingRanges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s188_stockSellBuyIV.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s198_HouseRobber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s242_validAnagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s256_paintHouse_memo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s278_firstBadVersionBS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s426_BST_CyclicDLL.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s438_allAnagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s498_DiagonalTraverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s636_exclusiveTime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s844_backSpaceStringCompare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s849_maxClosestPerson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s904_fruitsInBasket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LeetCode/soljit/s973_kDist_pq.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Miscellaneous.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Miscellaneous.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode/soljit/s253_MeetingRoomsII.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode/soljit/s253_MeetingRoomsII.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,81 +38,93 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s621_TaskSchedular.py">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s152_maxProdSubarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+            <state relative-caret-position="30">
+              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s139_wordBreakBFS.py">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/myTester.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="199">
+              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s211_TrieAddSearch.py">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/educative/appCheetsheet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s208_TrieAddSearchSW.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s700_BSTClosest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="194">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s273_IntegerToEnglish.py">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s253_MeetingRoomsII.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="45">
+              <caret line="26" selection-start-line="26" selection-end-line="50" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_Power_Lattice.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_coinSum.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_capPermut.py">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s904_fruitsInBasket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state relative-caret-position="270">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/minToOneMemo.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s849_maxClosestPerson.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s076_MinWindowT.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s163_missingRanges.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s1326_minTaps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s055_jumpGame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -137,31 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/trie_matching.py" />
-        <option value="$PROJECT_DIR$/ticToc.py" />
-        <option value="$PROJECT_DIR$/AlgTool/fib.py" />
-        <option value="$PROJECT_DIR$/NCout/StringRecursion.py" />
-        <option value="$PROJECT_DIR$/AlgTool/fibonacci_last_digit.py" />
-        <option value="$PROJECT_DIR$/AlgTool/gcd.py" />
-        <option value="$PROJECT_DIR$/AlgTool/lcm.py" />
-        <option value="$PROJECT_DIR$/AlgTool/wk2change.py" />
-        <option value="$PROJECT_DIR$/AlgTool/wk2fractional_knapsack.py" />
-        <option value="$PROJECT_DIR$/AlgTool/wk3binary_search.py" />
-        <option value="$PROJECT_DIR$/CodeWarriors/digitalRoot.py" />
-        <option value="$PROJECT_DIR$/CodeWarriors/tester.py" />
-        <option value="$PROJECT_DIR$/CodeWarriors/RectToSquare.py" />
-        <option value="$PROJECT_DIR$/PrManOco/HW1.py" />
-        <option value="$PROJECT_DIR$/PrManOco/HW01.py" />
-        <option value="$PROJECT_DIR$/PrManOco/pmTester.py" />
-        <option value="$PROJECT_DIR$/PrManOco/HW03.py" />
-        <option value="$PROJECT_DIR$/ElasticSearchPython/kStart.py" />
-        <option value="$PROJECT_DIR$/PrManOco/HW02.py" />
-        <option value="$PROJECT_DIR$/01_DataAnalysis/DAwithPandas.py" />
-        <option value="$PROJECT_DIR$/01_DataAnalysis/imgProcNumPy.py" />
-        <option value="$PROJECT_DIR$/DBConnect/dbScript.py" />
-        <option value="$PROJECT_DIR$/DBConnect/orclConnect.py" />
-        <option value="$PROJECT_DIR$/DBConnect/orclConnOop.py" />
-        <option value="$PROJECT_DIR$/DBConnect/balance.txt" />
         <option value="$PROJECT_DIR$/DBConnect/jackBalance.txt" />
         <option value="$PROJECT_DIR$/DBConnect/johnBalance.txt" />
         <option value="$PROJECT_DIR$/DBConnect/account.py" />
@@ -186,6 +166,33 @@
         <option value="$PROJECT_DIR$/../LeetCode/soljit/s208_TrieAddSearchSW.py" />
         <option value="$PROJECT_DIR$/../LeetCode/soljit/s700_BSTClosest.py" />
         <option value="$PROJECT_DIR$/../LeetCode/soljit/s273_IntegerToEnglish.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s278_firstBadVersionBS.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/educative/arrayGrid.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s063_UniquePath2.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s426_BST_CyclicDLL.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s094_BST_Inorder.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s144_BST_PreOrder.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s145_BST_PostOrder.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s438_allAnagrams.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s242_validAnagram.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/ctuoJul/stock_122.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s188_stockSellBuyIV.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s498_DiagonalTraverse.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s152_maxProdSubarray.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s053_maxSubArray.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s198_HouseRobber.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s256_paintHouse_memo.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s1326_minTaps.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s636_exclusiveTime.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/educative/testamentCheetsheet.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s055_jumpGame.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s163_missingRanges.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s849_maxClosestPerson.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s904_fruitsInBasket.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s973_kDist_pq.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/educative/appCheetsheet.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s844_backSpaceStringCompare.py" />
+        <option value="$PROJECT_DIR$/../LeetCode/soljit/s253_MeetingRoomsII.py" />
       </list>
     </option>
   </component>
@@ -242,8 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s680_validPalindrome2">
-    <configuration name="s034_firstLastPosInArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.s253_MeetingRoomsII">
+    <configuration name="arrayGrid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,11 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LeetCode/soljit" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LeetCode/educative" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/s034_firstLastPosInArray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/educative/appCheetsheet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s125_validPalindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="myTester" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,7 +283,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/s125_validPalindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/myTester.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s238_ProductArrayExclude" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s062_UniquePath" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,7 +304,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/s238_ProductArrayExclude.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/s062_UniquePath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s253_MeetingRoomsII" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LeetCode/soljit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/s253_MeetingRoomsII.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,27 +347,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/s680_validPalindrome2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s767_rearrangeString" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../LeetCode/soljit" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../LeetCode/soljit/s767_rearrangeString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -371,19 +378,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.trie" />
-      <item itemvalue="Python.s238_ProductArrayExclude" />
-      <item itemvalue="Python.s767_rearrangeString" />
-      <item itemvalue="Python.s034_firstLastPosInArray" />
-      <item itemvalue="Python.s125_validPalindrome" />
       <item itemvalue="Python.s680_validPalindrome2" />
+      <item itemvalue="Python.arrayGrid" />
+      <item itemvalue="Python.s062_UniquePath" />
+      <item itemvalue="Python.myTester" />
+      <item itemvalue="Python.s253_MeetingRoomsII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s253_MeetingRoomsII" />
+        <item itemvalue="Python.arrayGrid" />
+        <item itemvalue="Python.myTester" />
+        <item itemvalue="Python.s062_UniquePath" />
         <item itemvalue="Python.s680_validPalindrome2" />
-        <item itemvalue="Python.s125_validPalindrome" />
-        <item itemvalue="Python.s034_firstLastPosInArray" />
-        <item itemvalue="Python.s767_rearrangeString" />
-        <item itemvalue="Python.s238_ProductArrayExclude" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +453,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18604651" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18604651" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32222223" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -454,7 +461,7 @@
       <window_info anchor="bottom" id="Python Console" order="3" weight="0.32777777" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32916668" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.45277777" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.45277777" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39722222" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -476,208 +483,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01_DataAnalysis/imgProcNumPy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="31" selection-start-line="31" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.3/python_stubs/1437855905/cx_Oracle/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnect/jackBalance.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnect/johnBalance.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnect/balance.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webScrap/RealEstateData.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../ReactProjects/react-app/src/components/counter.jsx" />
-    <entry file="file://$PROJECT_DIR$/../myReact/vidly/src/components/movies.jsx" />
-    <entry file="file://$PROJECT_DIR$/PrManOco/HW01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="43" selection-start-line="32" selection-start-column="4" selection-end-line="42" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PrManOco/HW02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnect/dbScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" selection-start-line="42" selection-end-line="43" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnect/account.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wwOpenCV/cv2Script.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webScrap/wsScript.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnect/orclConnect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s501_findMode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s199_BSTRightSideView.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s238_ProductArrayExclude.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/trieLevelUp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="132" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/heapqBuntoro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1028" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/dp_FileSum_JS">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-767" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/dp_CoinSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/kthLargestAmadou.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/trie.py3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/WeirdTest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/IntDictProject/app1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_intToHex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/tester.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3722" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/ronHeapSort">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1485">
-          <caret line="99" column="41" lean-forward="true" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/minToOneRecursion.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/KMerge_minHeap.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tryMatching.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -709,19 +514,6 @@
     <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_Power_Lattice.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_coinSum.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_capPermut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/minToOneMemo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s034_firstLastPosInArray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -750,45 +542,286 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s278_firstBadVersionBS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s621_TaskSchedular.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s139_wordBreakBFS.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s211_TrieAddSearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s208_TrieAddSearchSW.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="1125">
           <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s700_BSTClosest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_coinSum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/Rec_capPermut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/minToOneMemo.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s273_IntegerToEnglish.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s062_UniquePath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s063_UniquePath2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s426_BST_CyclicDLL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s144_BST_PreOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s145_BST_PostOrder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s438_allAnagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s242_validAnagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s094_BST_Inorder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s498_DiagonalTraverse.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/ctuoJul/stock_122.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s188_stockSellBuyIV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s198_HouseRobber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s256_paintHouse_memo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/educative/myStack.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s636_exclusiveTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/temp.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/myTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/educative/testamentCheetsheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s053_maxSubArray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s152_maxProdSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s1326_minTaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s055_jumpGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s076_MinimumWIndow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s076_MinWindowT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s163_missingRanges.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s849_maxClosestPerson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s904_fruitsInBasket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s973_kDist_pq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s844_backSpaceStringCompare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/educative/appCheetsheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LeetCode/soljit/s253_MeetingRoomsII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="26" selection-start-line="26" selection-end-line="50" selection-end-column="26" />
         </state>
       </provider>
     </entry>
