@@ -10,13 +10,19 @@ class Solution:
 
         # Number of ways of reaching the starting cell = 1.
         obstacleGrid[0][0] = 1
-
-        for i in range(1, r):
-            obstacleGrid[i][0] = int(obstacleGrid[i][0] == 0 and obstacleGrid[i - 1][0] == 1)
-
+        for i in range(1, r):## Filling value for first column
+            if int(obstacleGrid[i][0] == 0 and obstacleGrid[i - 1][0] == 1):
+                obstacleGrid[i][0] = 1
+            else:
+                obstacleGrid[i][0] = 0
+            ##obstacleGrid[i][0] = int(obstacleGrid[i][0] == 0 and obstacleGrid[i - 1][0] == 1)
         # Filling the values for the first row
         for j in range(1, c):
-            obstacleGrid[0][j] = int(obstacleGrid[0][j] == 0 and obstacleGrid[0][j - 1] == 1)
+            if int(obstacleGrid[0][j] == 0 and obstacleGrid[0][j - 1] == 1):
+                obstacleGrid[0][j] = 1
+            else:
+                obstacleGrid[0][j] = 0
+            ##obstacleGrid[0][j] = int(obstacleGrid[0][j] == 0 and obstacleGrid[0][j-1] == 1)
 
         for i in range(1, r):
             for j in range(1, c):
@@ -25,5 +31,4 @@ class Solution:
                 else:
                     obstacleGrid[i][j] = 0
 
-        print(obstacleGrid)
-        return obstacleGrid[r - 1][c - 1]
+        return obstacleGrid[r - 1][c - 1]        

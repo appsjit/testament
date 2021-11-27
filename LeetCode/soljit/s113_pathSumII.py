@@ -32,3 +32,6 @@ class Solution:
 
 
 
+s = Solution()
+ls = [5,4,8,11,None,13,4,7,2,None,None,5,1]
+##print(22, )

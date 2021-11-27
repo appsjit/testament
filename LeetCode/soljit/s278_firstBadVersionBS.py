@@ -20,3 +20,17 @@ class Solution:
                 left = mid + 1
 
         return int(left)
+
+        # l, r = 0, n
+        #
+        # while l <= r:
+        #     mid = l + ((r - l) // 2)
+        #     if isBadVersion(mid):
+        #         if not isBadVersion(mid - 1):
+        #             return mid
+        #         else:
+        #             r = mid
+        #     else:
+        #         l = mid + 1
+        #
+        # return -1
