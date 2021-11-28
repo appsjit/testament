@@ -17,6 +17,8 @@ def stringGround(pStr):
     print('Print Third Last Letter  : ' + pStr[-3])
 
     print('Print Using Substr  : ' + pStr[0:lenStr+1])
+    s = 'abc'
+    print('Print Using Substr 2   : ' + s[0:2])
 
     print('Lpad for 2 '+'9'.rjust(3,'0'))
 
@@ -24,6 +26,24 @@ def stringGround(pStr):
     print('Rounding 1.2:'+str(round(1.2)))
     print('Rounding 1.5:' + str(round(1.5)))
 
+    ## Del one char and print
+    for i in range(len(pStr)):
+        ## Delete one char and check if it exist in map
+        tWord = pStr[:i] + pStr[i + 1:]
+        print(tWord)
+
+def sortMan():
+    courses = [[5,8],[4,6],[2,6]]
+    print(courses)
+    ## Sort based on 1th index
+    courseSorted = sorted(courses, key = lambda x : x[1])
+    print(courseSorted)
+
+
+    ## Sorting words based on word length
+    words = ["bdcae","a","b","ba","bca","bda","bdca"]
+    words = sorted(words, key=lambda x: len(x))
+    print(words)
 
 ## https://docs.python.org/2/library/heapq.html
 ## https://www.educative.io/edpresso/what-is-the-python-priority-queue
@@ -161,7 +181,7 @@ def simpleStack():
 
 
 
-def gridArray(inpGrid):
+def gridArray(inpGrid, pNum):
     # print(inpGrid[0])
     # print(inpGrid[1])
     # print(inpGrid[2])
@@ -178,20 +198,43 @@ def gridArray(inpGrid):
         for j in range(0, c):
             print(str(inpGrid[i][j])+'  '+str(grid[i][j]))
     print(inpGrid)
+    pNum += 10
 
 
-##gridArray([[1,2,3,4],[5,6,7,8],[9,10,11,12]])
+def loopMaster():
+    nums = [101, 92, 83, 74, 65]
+
+    for x in nums:
+        print(x)
+
+    for index, valu in enumerate(nums):
+        print(str(index) + '  ' + str(valu))
+
+    g = 2
+    for i in range(g, g+1):
+        print(i)
+
+
+pS = 500
+##gridArray([[1,2,3,4],[5,6,7,8],[9,10,11,12]], pS)
+##print(pS)
 ##simpleStack()
 ##dictGround()
-##stringGround('AceOfBase')
+stringGround('AceOfBase')
 ##priorityQueue()
 ##bfsQueue()
 ##kDistSortLambda()
 ##whileLoopPlayer()
 ##heapGround()
-simpleQueList()
+##simpleQueList()
+##sortMan()
+##loopMaster()
 
 
 
 
 ## Notes  , Good Quick Trie at 212 word search
+print('-----------')
+# from soljit import s084_HistogramLargestRectangle
+# sol = s084_HistogramLargestRectangle.Solution()
+# print('From different folders '+str(sol.largestRectangleArea([2,1,5,6,2,12])))

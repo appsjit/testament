@@ -2,54 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3ed0c8d-a004-42be-8fca-06a88108e80b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DailyCoding/dc_4_59_maxOfKlenSubArr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCoding/dc_6_84_minSumLevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyCoding/dc_7_89_makeBst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ctuoJul/stock_122.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s005_longestPalindromeSubstring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s048_rotateImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s053_maxSubArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s055_jumpGame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s063_UniquePath2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s079_wordSearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s094_BST_Inorder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s112_pathSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s127_wordLadder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s1326_minTaps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s1380_luckyNumMatrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s142_detectCycleII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s144_BST_PreOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s145_BST_PostOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s152_maxProdSubarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s163_missingRanges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s188_stockSellBuyIV.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s198_HouseRobber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s200_numberOfIslands_DFS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s212_wordSearchII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s215_kthLargestNumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s242_validAnagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s247_strobogrammaticII.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s256_paintHouse_memo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s278_firstBadVersionBS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s409_LongestPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s426_BST_CyclicDLL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s438_allAnagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s498_DiagonalTraverse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s636_exclusiveTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s844_backSpaceStringCompare.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s849_maxClosestPerson.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s904_fruitsInBasket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s969_pancakeSorting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soljit/s973_kDist_pq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCoding/dc_5_67_LRUCache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCoding/dc_5_67_LinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCoding/dc_5_69_brickWallCuts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DailyCoding/dc_testRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/educative/graphAdjacencyList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/609_dupFileInSystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/a1120_maxAvgSubtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s005_LongestPalindromeSubstringDP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s035_SearchInsertPosition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s051_NQueens.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s064_minimumPathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s084_HistogramLargestRectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s091_DecodeWays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s096_UniqueBSTs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1014_BestSightSeeingPair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1041_RobotCircle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1048_LongestStringChain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1197_knightMoves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s120_Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1245_TreeDiameterMe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1289_minFallingSumII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s128_LongestConsSequenceOn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1314_MatrixBlockSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1383_maxPerfTeam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1567_maxLenSubarrayPositivePrd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s1849_splittingString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s207_CourseSchedule_BT1_IMP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s210_CourseSchedule_II_indegree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s221_MaximalSquare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s24_swapNodeInPair.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s264_UglyNumberII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s304_RangeSumQuery2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s323_noOfConnComponents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s329_longestIncreasingPath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s394_decodeString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s399_graph_evaluateDivision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s413_ArithmeticSequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s509_fibonacciNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s516.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s543_diameterOfBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s565_arrayListing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s573_squirrelSimulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s594_LongestHarmoniusSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s630_CourseScheduleIII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s665_NonDecreasingArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s704_BinarySearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s70_ClimbingStairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s714_BestTimeToSellStockTransFee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s746_minCostClimbingTrees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soljit/s968_BinaryTreeCameras.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/s002_AddingNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s002_AddingNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/s023_MergeKSortedLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s023_MergeKSortedLists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/s042_TrappingRainWater.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s042_TrappingRainWater.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/s124_BST_MaxPath.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s124_BST_MaxPath.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/s238_ProductArrayExclude.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s238_ProductArrayExclude.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/s253_MeetingRoomsII.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s253_MeetingRoomsII.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soljit/tester.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/tester.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Miscellaneous/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Miscellaneous/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DailyCoding/dc_4_60_reconstruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/DailyCoding/dc_4_60_reconstruct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/educative/appCheetsheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/educative/appCheetsheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soljit/s063_UniquePath2.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s063_UniquePath2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soljit/s113_pathSumII.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s113_pathSumII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soljit/s121_stockSellBuyI.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s121_stockSellBuyI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soljit/s278_firstBadVersionBS.py" beforeDir="false" afterPath="$PROJECT_DIR$/soljit/s278_firstBadVersionBS.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +71,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/educative/appCheetsheet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1998">
-              <caret line="177" column="29" lean-forward="true" selection-start-line="177" selection-start-column="29" selection-end-line="177" selection-end-column="29" />
+            <state relative-caret-position="142">
+              <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -72,79 +81,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DailyCoding/dc_4_59_maxOfKlenSubArr.py">
+        <entry file="file://$PROJECT_DIR$/soljit/s005_LongestPalindromeSubstringDP.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="345">
+              <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DailyCoding/dc_4_60_reconstruct.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soljit/s200_numberOfIslands_DFS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soljit/s127_wordLadder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="89" column="38" lean-forward="true" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soljit/myTester.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-991" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soljit/s1326_minTaps.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-224" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soljit/s1380_luckyNumMatrix.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="36" selection-start-line="36" selection-end-line="39" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soljit/tester.py">
+        <entry file="file://$PROJECT_DIR$/soljit/s516.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/soljit/temp.py">
+        <entry file="file://$PROJECT_DIR$/soljit/s005_longestPalindromeSubstring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-64" />
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -162,6 +121,10 @@
       <find>able to insert a node into empty linked list</find>
       <find>able to insert a node into empty binary search tree</find>
       <find>compare</find>
+      <find>dict</find>
+      <find>enumer</find>
+      <find>set</find>
+      <find>copy</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,63 +133,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../../jitDrive/outcoGit/outcode-54-python-appsjit/target_practice_prompts/12_matrix.py" />
-        <option value="$PROJECT_DIR$/ctuoJul/kthLargestAmadou.java" />
-        <option value="$PROJECT_DIR$/ctuoJul/spiralMatrix.java" />
-        <option value="$PROJECT_DIR$/soljit/s141_LinkedListCycle.py" />
-        <option value="$PROJECT_DIR$/soljit/s047_PermutationsII.py" />
-        <option value="$PROJECT_DIR$/ctuoJul/amadouCoinChange.java" />
-        <option value="$PROJECT_DIR$/ctuoJul/amadouCoinChange.py" />
-        <option value="$PROJECT_DIR$/ctuoJul/amDp_buyingSellingShare.py" />
-        <option value="$PROJECT_DIR$/soljit/s121_stockSellBuyI.py" />
-        <option value="$PROJECT_DIR$/soljit/s122_stockSellBuyII.py" />
-        <option value="$PROJECT_DIR$/soljit/s076_MinimumWIndow.py" />
-        <option value="$PROJECT_DIR$/soljit/s076_MinWindowT.py" />
-        <option value="$PROJECT_DIR$/soljit/s239_slidingWindowMax.py" />
-        <option value="$PROJECT_DIR$/soljit/s161_oneEditDistance.py" />
-        <option value="$PROJECT_DIR$/soljit/s072_editDistance.py" />
-        <option value="$PROJECT_DIR$/soljit/s056_MergeIntervals.py" />
-        <option value="$PROJECT_DIR$/soljit/s252_MeetingRooms.py" />
-        <option value="$PROJECT_DIR$/ctuoJul/probability.js" />
-        <option value="$PROJECT_DIR$/soljit/s253_MeetingRoomsII.py" />
-        <option value="$PROJECT_DIR$/soljit/s088_MergeSortedArray.py" />
-        <option value="$PROJECT_DIR$/soljit/s986_intervalListIntersection.py" />
-        <option value="$PROJECT_DIR$/soljit/s098_validateBST.py" />
-        <option value="$PROJECT_DIR$/soljit/s286_WallsANdGates.py" />
-        <option value="$PROJECT_DIR$/soljit/s003_LongestSubstrWOR.py" />
-        <option value="$PROJECT_DIR$/soljit/s002_AddingNumbers.py" />
-        <option value="$PROJECT_DIR$/soljit/s023_MergeKSortedLists.py" />
-        <option value="$PROJECT_DIR$/soljit/s048_rotateImage.py" />
-        <option value="$PROJECT_DIR$/soljit/s042_TrappingRainWater.py" />
-        <option value="$PROJECT_DIR$/soljit/s215_kthLargestNumber.py" />
-        <option value="$PROJECT_DIR$/soljit/s409_LongestPalindrome.py" />
-        <option value="$PROJECT_DIR$/soljit/s005_longestPalindromeSubstring.py" />
-        <option value="$PROJECT_DIR$/soljit/0247_strobogrammaticII.py" />
-        <option value="$PROJECT_DIR$/soljit/s142_detectCycleII.py" />
-        <option value="$PROJECT_DIR$/soljit/s969_pancakeSorting.py" />
-        <option value="$PROJECT_DIR$/soljit/s212_wordSearchII.py" />
-        <option value="$PROJECT_DIR$/soljit/s079_wordSearch.py" />
-        <option value="$PROJECT_DIR$/soljit/s238_ProductArrayExclude.py" />
+        <option value="$PROJECT_DIR$/soljit/s630_CourseScheduleIII.py" />
+        <option value="$PROJECT_DIR$/soljit/s329_longestIncreasingPath.py" />
         <option value="$PROJECT_DIR$/soljit/s113_pathSumII.py" />
-        <option value="$PROJECT_DIR$/soljit/s112_pathSum.py" />
-        <option value="$PROJECT_DIR$/soljit/s1380_luckyNumMatrix.py" />
-        <option value="$PROJECT_DIR$/DailyCoding/6_84_minSumLevel.py" />
-        <option value="$PROJECT_DIR$/DailyCoding/7_89_makeBst.py" />
-        <option value="$PROJECT_DIR$/DailyCoding/dc_6_84_minSumLevel.py" />
-        <option value="$PROJECT_DIR$/DailyCoding/dc_7_89_makeBst.py" />
-        <option value="$PROJECT_DIR$/soljit/s124_BST_MaxPath.py" />
-        <option value="$PROJECT_DIR$/soljit/tester.py" />
-        <option value="$PROJECT_DIR$/soljit/s127_wordLadder.py" />
-        <option value="$PROJECT_DIR$/soljit/s200_numberOfIslands_DFS.py" />
+        <option value="$PROJECT_DIR$/soljit/s1245_TreeDiameterMe.py" />
+        <option value="$PROJECT_DIR$/soljit/s394_decodeString.py" />
+        <option value="$PROJECT_DIR$/soljit/s399_graph_evaluateDivision.py" />
+        <option value="$PROJECT_DIR$/soljit/s573_squirrelSimulation.py" />
+        <option value="$PROJECT_DIR$/soljit/s543_diameterOfBinaryTree.py" />
+        <option value="$PROJECT_DIR$/soljit/s594_LongestHarmoniusSubsequence.py" />
+        <option value="$PROJECT_DIR$/soljit/s1041_RobotCircle.py" />
+        <option value="$PROJECT_DIR$/soljit/s323_noOfConnComponents.py" />
+        <option value="$PROJECT_DIR$/soljit/s665_NonDecreasingArray.py" />
+        <option value="$PROJECT_DIR$/educative/graphAdjacencyList.py" />
+        <option value="$PROJECT_DIR$/soljit/s1197_knightMoves.py" />
+        <option value="$PROJECT_DIR$/soljit/s968_BinaryTreeCameras.py" />
+        <option value="$PROJECT_DIR$/soljit/s1048_LongestStringChain.py" />
+        <option value="$PROJECT_DIR$/soljit/609_dupFileInSystem.py" />
+        <option value="$PROJECT_DIR$/soljit/s051_NQueens.py" />
+        <option value="$PROJECT_DIR$/soljit/s1849_splittingString.py" />
+        <option value="$PROJECT_DIR$/soljit/s24_swapNodeInPair.py" />
+        <option value="$PROJECT_DIR$/soljit/s_128_LongestConsSequenceOn.py" />
+        <option value="$PROJECT_DIR$/soljit/s1383_maxPerfTeam.py" />
+        <option value="$PROJECT_DIR$/soljit/a1120_maxAvgSubtree.py" />
+        <option value="$PROJECT_DIR$/soljit/s565_arrayListing.py" />
+        <option value="$PROJECT_DIR$/soljit/s509_fibonacciNumber.py" />
+        <option value="$PROJECT_DIR$/soljit/s70_ClimbingStairs.py" />
+        <option value="$PROJECT_DIR$/soljit/s746_minCostClimbingTrees.py" />
+        <option value="$PROJECT_DIR$/soljit/s_0264_uglyNumberII.py" />
+        <option value="$PROJECT_DIR$/soljit/s_264_UglyNumberII.py" />
+        <option value="$PROJECT_DIR$/soljit/s264_UglyNumberII.py" />
+        <option value="$PROJECT_DIR$/soljit/s084_HistogramLargestRectangle.py" />
+        <option value="$PROJECT_DIR$/soljit/s1567_maxLenSubarrayPositivePrd.py" />
+        <option value="$PROJECT_DIR$/soljit/s1014_BestSightSeeingPair.py" />
+        <option value="$PROJECT_DIR$/soljit/s121_stockSellBuyI.py" />
+        <option value="$PROJECT_DIR$/soljit/s714_BestTimeToSellStockTransFee.py" />
+        <option value="$PROJECT_DIR$/soljit/s413_ArithmeticSequences.py" />
+        <option value="$PROJECT_DIR$/soljit/s091_DecodeWays.py" />
+        <option value="$PROJECT_DIR$/soljit/s096_UniqueBSTs.py" />
+        <option value="$PROJECT_DIR$/soljit/s1289_minFallingSumII.py" />
+        <option value="$PROJECT_DIR$/soljit/s120_Triangle.py" />
+        <option value="$PROJECT_DIR$/soljit/s1314_MatrixBlockSum.py" />
+        <option value="$PROJECT_DIR$/soljit/s304_RangeSumQuery2D.py" />
+        <option value="$PROJECT_DIR$/soljit/s063_UniquePath2.py" />
+        <option value="$PROJECT_DIR$/soljit/s064_minimumPathSum.py" />
+        <option value="$PROJECT_DIR$/soljit/s221_MaximalSquare.py" />
+        <option value="$PROJECT_DIR$/soljit/s704_BinarySearch.py" />
+        <option value="$PROJECT_DIR$/soljit/s278_firstBadVersionBS.py" />
+        <option value="$PROJECT_DIR$/soljit/s035_SearchInsertPosition.py" />
         <option value="$PROJECT_DIR$/educative/appCheetsheet.py" />
-        <option value="$PROJECT_DIR$/DailyCoding/dc_4_59_maxOfKlenSubArr.py" />
-        <option value="$PROJECT_DIR$/DailyCoding/dc_4_60_reconstruct.py" />
+        <option value="$PROJECT_DIR$/soljit/s005_LongestPalindromeSubstringDP.py" />
+        <option value="$PROJECT_DIR$/soljit/s516.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1430" />
     <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -235,18 +198,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="DailyCoding" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -262,12 +219,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -289,49 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dc_4_59_maxOfKlenSubArr">
-    <configuration name="6_84_minSumLevel" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCoding" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DailyCoding/dc_6_84_minSumLevel.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="7_89_makeBst" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCoding" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DailyCoding/dc_7_89_makeBst.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.appCheetsheet">
     <configuration name="appCheetsheet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -353,28 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dc_4_59_maxOfKlenSubArr" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DailyCoding" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DailyCoding/dc_4_59_maxOfKlenSubArr.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s127_wordLadder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s091_DecodeWays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,7 +281,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s127_wordLadder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s091_DecodeWays.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1014_BestSightSeeingPair" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/soljit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s1014_BestSightSeeingPair.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s120_Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/soljit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s120_Triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s278_firstBadVersionBS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/soljit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/soljit/s278_firstBadVersionBS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,16 +355,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dc_4_59_maxOfKlenSubArr" />
         <item itemvalue="Python.appCheetsheet" />
-        <item itemvalue="Python.s127_wordLadder" />
-        <item itemvalue="Python.7_89_makeBst" />
-        <item itemvalue="Python.6_84_minSumLevel" />
+        <item itemvalue="Python.s278_firstBadVersionBS" />
+        <item itemvalue="Python.s120_Triangle" />
+        <item itemvalue="Python.s091_DecodeWays" />
+        <item itemvalue="Python.s1014_BestSightSeeingPair" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -460,9 +418,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <frame x="0" y="23" width="1430" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18604651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18736693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -500,33 +459,101 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/soljit/s023_MergeKSortedLists.py">
+    <entry file="file://$PROJECT_DIR$/soljit/tester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="51" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
+        <state relative-caret-position="241">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s102_PathSum.py">
+    <entry file="file://$PROJECT_DIR$/ctuoJul/amadouCoinChange.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s409_LongestPalindrome.py">
+    <entry file="file://$PROJECT_DIR$/soljit/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/temp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="-10484" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/WeirdTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/scratch.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/educative/StQ_Ch5_Sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ctuoJul/tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="39" selection-start-line="39" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s152_maxProdSubarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s055_jumpGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s746_minCostClimbingTrees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s70_ClimbingStairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/myTester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-401" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyCoding/dc_7_89_makeBst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DailyCoding/dc_testRunner.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/educative/Ch_10_minmax.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/educative/edMyTester.py">
+    <entry file="file://$PROJECT_DIR$/educative/graphAdjacencyList.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-194" />
+        <state relative-caret-position="599">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/LinkedList_Ch03_DelHead.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/educative/LinkedList_Ch1_tailIns.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -537,264 +564,213 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/educative/hashImpl.py">
+    <entry file="file://$PROJECT_DIR$/educative/edMyTester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="134" column="22" lean-forward="true" selection-start-line="133" selection-end-line="134" selection-end-column="22" />
+        <state relative-caret-position="-194" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s1567_maxLenSubarrayPositivePrd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/educative/Lists.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s005_longestPalindromeSubstring.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s1014_BestSightSeeingPair.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        <state relative-caret-position="120">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s084_HistogramLargestRectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="56" lean-forward="true" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s121_stockSellBuyI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/soljit/s122_stockSellBuyII.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s141_LinkedListCycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s142_detectCycleII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s238_ProductArrayExclude.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s501_findMode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-404" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s113_pathSumII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="15" selection-start-line="15" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s212_wordSearchII.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-74">
-          <caret line="26" column="29" lean-forward="true" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s001_TwoSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyCoding/dc_6_84_minSumLevel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s053_maxSubArray.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s048_rotateImage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s124_BST_MaxPath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s094_BST_Inorder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s112_pathSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s079_wordSearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DailyCoding/dc_7_89_makeBst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/myQueue.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/educative/myStack.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s969_pancakeSorting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s973_kDist_pq.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/temp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-64" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s438_allAnagrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-269" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s498_DiagonalTraverse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-284" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s636_exclusiveTime.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s215_kthLargestNumber.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="300">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/soljit/s198_HouseRobber.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s188_stockSellBuyIV.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-149" />
+        <state relative-caret-position="195">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s163_missingRanges.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s714_BestTimeToSellStockTransFee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29" />
+        <state relative-caret-position="60">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s242_validAnagram.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/soljit/s1289_minFallingSumII.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s247_strobogrammaticII.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s120_Triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s096_UniqueBSTs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s256_paintHouse_memo.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s139_wordBreak.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/myTester.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-991" />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/soljit/s139_wordBreakBFS.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s1326_minTaps.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s139_wordBreakDP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-224" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s1380_luckyNumMatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="36" selection-start-line="36" selection-end-line="39" selection-end-column="29" />
+        <state relative-caret-position="360">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/tester.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s042_TrappingRainWater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s413_ArithmeticSequences.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s127_wordLadder.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s091_DecodeWays.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="89" column="38" lean-forward="true" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/soljit/s200_numberOfIslands_DFS.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s1314_MatrixBlockSum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="570">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s304_RangeSumQuery2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s062_UniquePath.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s066_PlusOne.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s063_UniquePath2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s064_minimumPathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s221_MaximalSquare.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s700_BSTClosest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s704_BinarySearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s278_firstBadVersionBS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s035_SearchInsertPosition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s003_LongestSubstrWOR.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soljit/s005_longestPalindromeSubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/educative/appCheetsheet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="177" column="29" lean-forward="true" selection-start-line="177" selection-start-column="29" selection-end-line="177" selection-end-column="29" />
+        <state relative-caret-position="142">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DailyCoding/dc_4_59_maxOfKlenSubArr.py">
+    <entry file="file://$PROJECT_DIR$/soljit/s005_LongestPalindromeSubstringDP.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="345">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DailyCoding/dc_4_60_reconstruct.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/soljit/s516.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
